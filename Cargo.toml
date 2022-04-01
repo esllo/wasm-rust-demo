@@ -1,5 +1,5 @@
 [package]
-name = "wasm-rust-demo"
+name = "wasm-rust-example"
 version = "0.1.0"
 authors = ["esllo <master@esllo.com>"]
 edition = "2021"
