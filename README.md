@@ -1,5 +1,5 @@
-# wasm-rust-demo
-러스트 wasm 데모
+# wasm-rust-example
+러스트 wasm 예시
 
 
 ## Prerequisites
@@ -8,8 +8,8 @@ https://rustwasm.github.io/wasm-pack/installer/
 
 ### Installation
 ```sh
-git clone https://github.com/esllo/wasm-rust-demo.git
-cd wasm-rust-demo
+git clone https://github.com/esllo/wasm-rust-example.git
+cd wasm-rust-example
 yarn install
 ```
   
@@ -19,7 +19,7 @@ yarn install
 ### 데모 빌드
 web(no-modules) 
 ```sh
-# for wasm-rust-demo
+# for wasm-rust-example
 wasm-pack build --target no-modules
 ```
 ### 기타 빌드
