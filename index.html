@@ -9,10 +9,10 @@
 </head>
 
 <body>
-  <script src="pkg/wasm_rust_demo.js"></script>
+  <script src="pkg/wasm_rust_example.js"></script>
   <script>
     (async () => {
-      await wasm_bindgen('pkg/wasm_rust_demo_bg.wasm')
+      await wasm_bindgen('pkg/wasm_rust_example_bg.wasm')
       const { helloworld, add } = wasm_bindgen
 
       // Hello world!
