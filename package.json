@@ -1,5 +1,5 @@
 {
-  "name": "wasm-rust-demo",
+  "name": "wasm-rust-example",
   "version": "1.0.0",
   "repository": "https://github.com/esllo/wasm-rust-demo.git",
   "author": "esllo <master@esllo.com>",
